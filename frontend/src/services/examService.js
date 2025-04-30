@@ -1,7 +1,7 @@
 // src/services/examService.js
 import axios from 'axios';
 
-const API_BASE_URL = 'http://localhost:8080/api/exams';
+const API_BASE_URL = 'https://examscheduler-production.up.railway.app/api/exams'; 
 
 const examService = {
   // Get all exams
