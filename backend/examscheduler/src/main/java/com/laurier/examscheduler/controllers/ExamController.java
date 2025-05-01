@@ -27,3 +27,4 @@ public class ExamController {
         return examService.getExamsByCourseCode(courseCode);
     }
 }
+// Removed HealthCheckController to place it in its own file
