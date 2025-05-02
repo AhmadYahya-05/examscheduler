@@ -1,49 +1,63 @@
 # Laurier Exam Scheduler
 
 This project is a comprehensive exam scheduler designed for McGill University, benefiting over 30,000 students. It utilizes a PostgreSQL database to store all exam-related information, a Spring Boot application to create a RESTful API for the backend, and a ReactJS frontend for intuitive user interaction.
-
-
-
 <img width="1301" src="C:\Users\ahmad\Pictures\Screenshots\examscheduler.png">
 
-## Features
+#Features
+PostgreSQL Database – Stores comprehensive exam details such as course codes, sections, dates, times, and locations.
 
-- **PostgreSQL Database:** Stores detailed information about exams, including dates, times, courses, locations, and more.
-- **Spring Boot Backend:** Provides a robust RESTful API to manage exam data efficiently. The backend is packaged as a Dockerfile and hosted on Heroku.
-- **ReactJS Frontend:** A user-friendly interface for viewing, adding, editing, and deleting exam information. The frontend is hosted on Vercel.
+Spring Boot Backend – Exposes a RESTful API for managing exam data, packaged with Docker and hosted on Railway.
 
-## Prerequisites
+React.js Frontend – A clean and interactive UI hosted on Vercel for viewing, searching, and editing exam schedules.
 
-Before running this project locally, ensure you have the following installed:
+Prerequisites
+To run the project locally, you’ll need:
 
-- Java Development Kit (JDK) 8 or higher
-- Node.js and npm (Node Package Manager)
-- PostgreSQL database
-- IDE (IntelliJ IDEA, Eclipse, VS Code, etc.)
+Java Development Kit (JDK 8+)
 
-## Installation
+Node.js and npm
 
-### Backend Setup
+PostgreSQL
 
-1. Clone this repository.
-2. Open the `backend` directory in your preferred IDE.
-3. Configure the `application.properties` file in the `src/main/resources` directory with your PostgreSQL database credentials.
-4. Run the Spring Boot application.
+An IDE (e.g., IntelliJ IDEA, Eclipse, or VS Code)
 
-### Frontend Setup
+Installation
+Backend Setup
+Clone the repository.
 
-1. Navigate to the `frontend` directory in your terminal.
-2. Run `npm install` to install the necessary dependencies.
-3. Update the `src/config.js` file with the appropriate backend API URL.
-4. Run `npm start` to start the ReactJS application.
+Open the backend folder in your IDE.
 
-## Usage
+Update the application.properties file in src/main/resources with your PostgreSQL credentials.
 
-- Access the frontend application via `http://localhost:3000`.
-- Use the provided API endpoints to perform CRUD operations on exam data:
-  - `/api/exams` - GET all exams, POST a new exam, DELETE all exams.
-  - `/api/exams/{examId}` - GET, PUT, or DELETE a specific exam by ID.
+Run the Spring Boot app.
 
-## Contributing
+Frontend Setup
+Navigate to the frontend folder in your terminal.
 
-Contributions are welcome! If you'd like to enhance this project or report issues, please submit a pull request or open an issue.
+Run npm install to install dependencies.
+
+Update the backend API URL in src/config.js.
+
+Start the development server with npm start.
+
+Usage
+Access the app at http://localhost:3000
+
+API Endpoints:
+
+GET /api/exams – Retrieve all exams
+
+POST /api/exams – Add a new exam
+
+DELETE /api/exams – Remove all exams
+
+GET /api/exams/{examId} – Retrieve a specific exam
+
+PUT /api/exams/{examId} – Update a specific exam
+
+DELETE /api/exams/{examId} – Delete a specific exam
+
+Contributing
+Contributions and feedback are welcome! Feel free to open issues or submit pull requests to enhance the app.
+
+
