@@ -1,8 +1,8 @@
 Course,Section,Date,Time,Rooms
-1,YC100,WV,"Saturday, April 12",3:30 p.m.,Remote
-2,WS320,"A, A","Friday, April 25",3:30 p.m.,AC
-3,WS202,A,"Tuesday, April 15",8:30 a.m.,Remote
-4,SY421,A,"Friday, April 11",3:30 p.m.,AC
+YC100,WV,"Saturday, April 12",3:30 p.m.,Remote
+WS320,"A, A","Friday, April 25",3:30 p.m.,AC
+WS202,A,"Tuesday, April 15",8:30 a.m.,Remote
+SY421,A,"Friday, April 11",3:30 p.m.,AC
 SY414,A,"Saturday, April 12",8:30 a.m.,AC
 SY382,B,"Tuesday, April 15",3:30 p.m.,AC
 SY303,A,"Saturday, April 12",3:30 p.m.,AC
