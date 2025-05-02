@@ -1,0 +1,7 @@
+com\laurier\examscheduler\config\WebConfig.class
+com\laurier\examscheduler\ExamschedulerApplication.class
+com\laurier\examscheduler\services\ExamService.class
+com\laurier\examscheduler\models\Exam.class
+com\laurier\examscheduler\controllers\ExamController.class
+com\laurier\examscheduler\controllers\HealthCheckController.class
+com\laurier\examscheduler\repositories\ExamRepository.class
