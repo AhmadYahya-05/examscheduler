@@ -3,7 +3,7 @@
 This project is a comprehensive exam scheduler designed for Laurier University, benefiting over 20,000 students. It utilizes a PostgreSQL database to store all exam-related information, a Spring Boot application to create a RESTful API for the backend, and a ReactJS frontend for intuitive user interaction.
 
 
-<img width="1301" alt="Screenshot 2024-02-09 at 4 19 56 PM" src="https://github.com/Erik-Cupsa/McGill-Scheduler/assets/86483911/3d1bdbe8-8df7-4275-99b5-81bd564aed23">
+<img width="1301" alt="">
 
 ## Features
 
