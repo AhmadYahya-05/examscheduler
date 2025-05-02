@@ -1,17 +1,21 @@
-FROM eclipse-temurin:17-jdk as builder
+# === Build Stage ===
+FROM eclipse-temurin:17-jdk AS builder
 WORKDIR /app
 COPY . .
 RUN chmod +x mvnw
 RUN ./mvnw clean package -DskipTests
 
-# === Runtime stage ===
+# === Run Stage ===
 FROM eclipse-temurin:17-jdk
 WORKDIR /app
-COPY --from=builder /app/target/examscheduler-0.0.1-SNAPSHOT.jar .
 
-# ✅ EXPOSE port 8080 so Railway can map traffic to your app
+# Copy built JAR from builder stage
+COPY --from=builder /app/target/examscheduler-0.0.1-SNAPSHOT.jar app.jar
+
+# Expose the port Spring Boot will run on
 EXPOSE 8080
 
-# ✅ Correct CMD to run your Spring Boot app
-ENTRYPOINT ["java", "-jar", "examscheduler-0.0.1-SNAPSHOT.jar"]
+# Run the Spring Boot app
+ENTRYPOINT ["java", "-jar", "app.jar"]
+
 
