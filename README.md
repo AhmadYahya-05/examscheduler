@@ -1,4 +1,4 @@
-# McGill Exam Scheduler
+# Laurier Exam Scheduler
 
 This project is a comprehensive exam scheduler designed for McGill University, benefiting over 30,000 students. It utilizes a PostgreSQL database to store all exam-related information, a Spring Boot application to create a RESTful API for the backend, and a ReactJS frontend for intuitive user interaction.
 
