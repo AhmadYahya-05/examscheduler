@@ -4,6 +4,7 @@ This project is a comprehensive exam scheduler designed for Laurier University, 
 
 
 <img src="./assets/examscheduler.png" width="800">
+https://examscheduler-mu.vercel.app/
 
 ## Features
 
