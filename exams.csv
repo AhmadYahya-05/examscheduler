@@ -1,0 +1,456 @@
+Course,Section,Date,Time,Rooms
+YC100,WV,"Saturday, April 12",3:30 p.m.,Remote
+WS320,"A, A","Friday, April 25",3:30 p.m.,AC
+WS202,A,"Tuesday, April 15",8:30 a.m.,Remote
+SY421,A,"Friday, April 11",3:30 p.m.,AC
+SY414,A,"Saturday, April 12",8:30 a.m.,AC
+SY382,B,"Tuesday, April 15",3:30 p.m.,AC
+SY303,A,"Saturday, April 12",3:30 p.m.,AC
+SY281,C,"Monday, April 21",3:30 p.m.,SB106
+SY280,C,"Monday, April 14",Noon,SB106
+SY210,B (Romkey),"Wednesday, April 16",3:30 p.m.,AC
+SY210,C (Klaehn),"Wednesday, April 16",3:30 p.m.,Remote
+SY208,A,"Tuesday, April 15",8:30 a.m.,Remote
+SY103,"C, D","Thursday, April 10",7 p.m.,AC
+SY101,"C, D, WV","Thursday, April 17",7 p.m.,AC
+ST494,A,"Thursday, April 17",Noon,TA
+ST492,"A, A","Wednesday, April 23",8:30 a.m.,AC
+ST491,A,"Tuesday, April 15",8:30 a.m.,AC
+ST490,A,"Monday, April 14",8:30 a.m.,SB105
+ST344,A,"Wednesday, April 09",3:30 p.m.,AC
+ST260,A,"Tuesday, April 15",7 p.m.,TA
+ST231,"A, B","Friday, April 11",3:30 p.m.,AC
+SP223,A,"Thursday, April 10",Noon,SB103
+RE385,A,"Tuesday, April 15",8:30 a.m.,SB103
+RE265,WV,"Thursday, April 17",Noon,Remote
+RE231,"A, A","Monday, April 21",Noon,TA
+RE221,"A, A","Saturday, April 12",3:30 p.m.,AC
+RE206,"WV, WV","Monday, April 21",7 p.m.,Remote
+RE202,WV,"Wednesday, April 23",Noon,SB103
+RE106,A,"Wednesday, April 16",Noon,SB103
+RE103,A,"Tuesday, April 15",7 p.m.,SB106
+RE101,A,"Monday, April 14",,Take home exam due April 14
+PS472,B,"Thursday, April 17",8:30 a.m.,AC
+PS410,B,"Monday, April 14",8:30 a.m.,BA201
+PS395,WV,"Friday, April 11",8:30 a.m.,LH3094
+PS389,"C, C","Thursday, April 24",3:30 p.m.,AC
+PS381,"C, D","Monday, April 21",Noon,N1001
+PS373,B,"Tuesday, April 15",7 p.m.,AC
+PS366,A,"Wednesday, April 09",3:30 p.m.,LH3094
+PS365,B (Student last names A - K),"Wednesday, April 23",3:30 p.m.,LH1009
+PS365,B (Student last names L - Z),"Wednesday, April 23",3:30 p.m.,LH1010
+PS296,A (Miller) Student last names A - Mes,"Friday, April 11",7 p.m.,LH3094
+PS296,A (Miller) Student last names Mir - Pon,"Friday, April 11",7 p.m.,LH2062
+PS296,A (Miller) Student last names Poo - Sin,"Friday, April 11",7 p.m.,LH2064
+PS296,A (Miller) Student last names Smi - Z,"Friday, April 11",7 p.m.,LH2066
+PS296,B (Miller) Student last names A - Gies,"Friday, April 11",7 p.m.,LH1009
+PS296,B (Miller) Student last names Gio - Ngu,"Friday, April 11",7 p.m.,LH1010
+PS296,B (Miller) Student last names Nom - Z,"Friday, April 11",7 p.m.,LH1011
+PS296,WV (Eaton),"Friday, April 11",7 p.m.,AC
+PS288,A,"Thursday, April 17",7 p.m.,LH3094
+PS280,B,"Wednesday, April 23",7 p.m.,BA201
+PS276,B,"Wednesday, April 23",8:30 a.m.,BA201
+PS275,B,"Thursday, April 24",Noon,TA
+PS270,B,"Saturday, April 12",Noon,AC
+PS262,A (Student last names A - Din),"Monday, April 14",3:30 p.m.,LH1009
+PS262,A (Student last names Dmi - Lyo),"Monday, April 14",3:30 p.m.,LH1010
+PS262,A (Student last names Mac - Shi),"Monday, April 14",3:30 p.m.,LH1011
+PS262,A (Student last names Sho - Z),"Monday, April 14",3:30 p.m.,LH2066
+PS260,B (Student last names A - F),"Thursday, April 10",7 p.m.,LH1009
+PS260,B (Student last names G - Neu),"Thursday, April 10",7 p.m.,LH1010
+PS260,B (Student last names Nor - Z),"Thursday, April 10",7 p.m.,LH1011
+PS102,A (Schwieter),"Monday, April 21",3:30 p.m.,AC
+PS102,B (Schwieter) Student last names A - K,"Monday, April 21",3:30 p.m.,AC
+PS102,B (Schwieter) Student last names L - Z,"Monday, April 21",3:30 p.m.,TA
+PS102,C (Othof) Student last names A - Bla,"Monday, April 21",3:30 p.m.,LH1009
+PS102,C (Othof) Student last names Bob - Deh,"Monday, April 21",3:30 p.m.,LH1010
+PS102,C (Othof) Student last names Dei - Gra,"Monday, April 21",3:30 p.m.,LH1011
+PS102,C (Othof) Student last names Gre - Hun,"Monday, April 21",3:30 p.m.,LH2062
+PS102,C (Othof) Student last names Huo - Kal,"Monday, April 21",3:30 p.m.,LH2064
+PS102,C (Othof) Student last names Kan - Kwa,"Monday, April 21",3:30 p.m.,LH2066
+PS102,C (Othof) Student last names Lac - Pet,"Monday, April 21",3:30 p.m.,LH3094
+PS102,C (Othof) Student last names Phi - Rya,"Monday, April 21",3:30 p.m.,BA110
+PS102,C (Othof) Student last names Saa - She,"Monday, April 21",3:30 p.m.,BA111
+PS102,C (Othof) Student last names Shi - Swe,"Monday, April 21",3:30 p.m.,BA202
+PS102,C (Othof) Student last names Tac - Vig,"Monday, April 21",3:30 p.m.,BA208
+PS102,C (Othof) Student last names Vim - Z,"Monday, April 21",3:30 p.m.,BA209
+PP264,A,"Wednesday, April 23",Noon,AC
+PP240J,A,"Wednesday, April 09",7 p.m.,Remote
+PP229,A,"Friday, April 25",3:30 p.m.,AC
+PP217,A,"Monday, April 21",Noon,TA
+PP207,A,"Saturday, April 12",8:30 a.m.,TA
+PP111,B,"Thursday, April 17",3:30 p.m.,AC
+PP110,B,"Saturday, April 12",3:30 p.m.,AC
+PO389D,A,"Wednesday, April 23",3:30 p.m.,SB106
+PO332,A,"Thursday, April 10",7 p.m.,TA
+PO320,"A, A","Friday, April 25",3:30 p.m.,AC
+PO311D,A,"Monday, April 21",7 p.m.,AC
+PO264,A,"Wednesday, April 09",7 p.m.,AC
+PO245,A,"Tuesday, April 15",8:30 a.m.,N1001
+PO237,"A, B","Wednesday, April 16",8:30 a.m.,AC
+PO218,"A, B","Tuesday, April 22",Noon,TA
+PO210,B,"Tuesday, April 15",7 p.m.,TA
+PO102,"A, B","Thursday, April 24",7 p.m.,AC
+PD312,"A, A, A","Tuesday, April 22",8:30 a.m.,AC
+PC315,"A, A","Wednesday, April 09",3:30 p.m.,AC
+PC242,A,"Wednesday, April 16",8:30 a.m.,AC
+PC237,A,"Tuesday, April 22",8:30 a.m.,AC
+PC235,A,"Saturday, April 12",Noon,AC
+PC161,B,"Friday, April 25",3:30 p.m.,AC
+PC152,A,"Monday, April 21",7 p.m.,AC
+PC142,A,"Tuesday, April 15",7 p.m.,LH3094
+PC141,B,"Friday, April 25",3:30 p.m.,AC
+PC132,A,"Monday, April 21",7 p.m.,AC
+OL365,A,"Monday, April 21",3:30 p.m.,Remote
+OL340,A,"Wednesday, April 16",8:30 a.m.,AC
+OL251,"A, A","Monday, April 14",Noon,Remote
+OL200,"A, A","Tuesday, April 15",3:30 p.m.,Remote
+OL140,B,"Friday, April 25",8:30 a.m.,Remote
+NO309J,A,"Monday, April 21",7 p.m.,AC
+NO105,"C, D","Thursday, April 17",Noon,TA
+MZ200,"A, A","Monday, April 21",Noon,TA
+MU378,A,"Friday, April 25",Noon,MUS M2007
+MU271,A,"Monday, April 14",3:30 p.m.,M4031
+MU162,"A, B","Thursday, April 17",3:30 p.m.,M4031
+MU158,A,"Friday, April 25",3:30 p.m.,AC
+MU141,A,"Thursday, April 10",Noon,M2001
+ML200,A,"Tuesday, April 22",8:30 a.m.,TA
+MB200,"A, A","Tuesday, April 15",3:30 p.m.,Remote
+MA475,A,"Monday, April 14",Noon,AC
+MA470,A,"Saturday, April 12",3:30 p.m.,PET P110A/110B
+MA406,A,"Friday, April 11",3:30 p.m.,AC
+MA373,A,"Wednesday, April 16",3:30 p.m.,AC
+MA350,A,"Thursday, April 10",Noon,AC
+MA317,A,"Wednesday, April 16",7 p.m.,LH2066
+MA307,A,"Thursday, April 24",Noon,AC
+MA305,A,"Friday, April 11",Noon,AC
+MA270,A,"Friday, April 25",3:30 p.m.,LH3094
+MA250,A,"Monday, April 14",3:30 p.m.,TA
+MA238,A,"Tuesday, April 22",3:30 p.m.,AC
+MA235,A,"Wednesday, April 23",7 p.m.,AC
+MA220,A,"Thursday, April 17",7 p.m.,LH2064
+MA201,A,"Saturday, April 12",Noon,AC
+MA170,B,"Tuesday, April 15",3:30 p.m.,TA
+MA129,"D, E","Monday, April 14",8:30 a.m.,AC
+MA123,"C, D","Tuesday, April 22",Noon,AC
+MA121,A,"Monday, April 14",8:30 a.m.,SB106
+MA120,"A, B","Monday, April 14",3:30 p.m.,TA
+MA104,A,"Thursday, April 10",7 p.m.,TA
+MA103,"C, D, E","Saturday, April 12",8:30 a.m.,AC
+MA101,A,"Thursday, April 24",8:30 a.m.,AC
+MA100,C,"Monday, April 14",7 p.m.,AC
+KP484,A,"Tuesday, April 15",8:30 a.m.,TA
+KP472,A,"Wednesday, April 09",8:30 a.m.,TA
+KP471,A,"Friday, April 25",7 p.m.,Remote
+KP441,A,"Wednesday, April 23",3:30 p.m.,SB107
+KP435,"B, B","Wednesday, April 23",7 p.m.,AC
+KP426,A,"Friday, April 11",8:30 a.m.,TA
+KP390,A,"Saturday, April 12",3:30 p.m.,AC
+KP361,A,"Friday, April 25",8:30 a.m.,SB106
+KP345,B,"Friday, April 11",Noon,AC
+KP332,A,"Monday, April 14",3:30 p.m.,AC
+KP300,B,"Wednesday, April 16",3:30 p.m.,LH1010
+KP231,A,"Tuesday, April 15",8:30 a.m.,TA
+KP222,"A, A, B, B","Wednesday, April 09",7 p.m.,AC
+KP222,"A, A, B, B","Wednesday, April 09",7 p.m.,AC
+KP200,A,"Thursday, April 24",Noon,BA201
+KP181,"A, B, C, D","Monday, April 14",3:30 p.m.,AC
+IT102,A,"Sunday, April 13",,See instructor for time and room
+HS312,"A, A, A","Tuesday, April 22",8:30 a.m.,AC
+HR251,"A, A","Monday, April 14",Noon,Remote
+HN320,A,"Wednesday, April 16",Noon,TA
+HN220,"A, A, B, B","Wednesday, April 09",7 p.m.,AC
+HI373,A,"Friday, April 11",7 p.m.,AC
+HI358,A,"Wednesday, April 23",8:30 a.m.,AC
+HI347Y,A,"Monday, April 21",7 p.m.,AC
+HI347B,A,"Tuesday, April 15",Noon,AC
+HI345,A,"Wednesday, April 09",8:30 a.m.,TA
+HI309,A,"Thursday, April 24",Noon,AC
+HI267,A,"Tuesday, April 15",Noon,AC
+HI257,A,"Tuesday, April 22",7 p.m.,AC
+HI249,A,"Monday, April 14",3:30 p.m.,AC
+HI226,"A, A","Thursday, April 17",Noon,AC
+HI222,A,"Saturday, April 12",8:30 a.m.,TA
+HI209,A,"Saturday, April 12",Noon,AC
+HI206,A,"Thursday, April 10",7 p.m.,TA
+HI202,A,"Wednesday, April 23",3:30 p.m.,LH1011
+HI121,A,"Wednesday, April 09",Noon,ART 1E1
+HI112,A,"Friday, April 25",3:30 p.m.,AC
+HI110,A,"Wednesday, April 09",7 p.m.,TA
+HI109,A,"Wednesday, April 23",7 p.m.,AC
+HE440T,A,"Friday, April 11",Noon,AC
+HE440S,A,"Wednesday, April 16",3:30 p.m.,LH1009
+HE435,"B, B","Wednesday, April 23",7 p.m.,AC
+HE330,A,"Wednesday, April 09",Noon,Remote
+HE305,"C, C","Thursday, April 24",3:30 p.m.,AC
+HE101,A (Student last names A - Goo),"Saturday, April 12",Noon,LH1009
+HE101,A (Student last names Gre - Ngu),"Saturday, April 12",Noon,LH1010
+HE101,A (Student last names Nia - Z),"Saturday, April 12",Noon,LH1011
+GS340S,A,"Wednesday, April 09",3:30 p.m.,AC
+GS232,A,"Monday, April 14",3:30 p.m.,AC
+GS223,"WV, WV","Monday, April 21",7 p.m.,Remote
+GS220,"A, A","Saturday, April 12",3:30 p.m.,AC
+GS102,A,"Wednesday, April 09",8:30 a.m.,AC
+GS101,B,"Wednesday, April 16",3:30 p.m.,AC
+GM111,A,"Monday, April 14",7 p.m.,SB103
+GL102,A,"Tuesday, April 22",8:30 a.m.,AC
+GG282,A,"Wednesday, April 23",Noon,AC
+GG261,A,"Monday, April 21",7 p.m.,AC
+GG260,A,"Friday, April 11",8:30 a.m.,TA
+GG250,A,"Tuesday, April 22",8:30 a.m.,AC
+GG102,C,"Tuesday, April 15",8:30 a.m.,AC
+GG101,"B, C","Friday, April 25",7 p.m.,AC
+GESC258,A,"Thursday, April 10",8:30 a.m.,AC
+FS341,A,"Wednesday, April 09",Noon,SB103
+FS330,A,"Wednesday, April 09",8:30 a.m.,AC
+FS309T,A,"Friday, April 25",Noon,AC
+FS246,A,"Thursday, April 17",3:30 p.m.,AC
+FS241,B,"Friday, April 11",7 p.m.,SB106
+FS209C,A,"Monday, April 21",Noon,LH1009
+FS103,A,"Monday, April 14",8:30 a.m.,AC
+FS102,A,"Tuesday, April 22",3:30 p.m.,AC
+FR360,A,"Tuesday, April 15",8:30 a.m.,BA111
+FR151,"A, B","Monday, April 21",7 p.m.,AC
+FR102,A,"Thursday, April 24",Noon,AC
+ES274,A,"Thursday, April 17",7 p.m.,TA
+ES110,"C, D","Friday, April 11",8:30 a.m.,AC
+EN430D,A,"Friday, April 11",Noon,AC
+EN347,A,"Saturday, April 12",8:30 a.m.,TA
+EN322,A,"Friday, April 25",7 p.m.,AC
+EN301,A,"Tuesday, April 15",8:30 a.m.,LH1010
+EN282,WV,"Thursday, April 24",8:30 a.m.,TA
+EN252,A,"Friday, April 25",8:30 a.m.,AC
+EN240,B,"Thursday, April 10",8:30 a.m.,AC
+EN218,WV,"Tuesday, April 22",3:30 p.m.,SB106
+EN209Y,A,"Thursday, April 17",3:30 p.m.,AC
+EN165,A,"Tuesday, April 15",8:30 a.m.,BA201
+EN107,A,"Friday, April 11",Noon,TA
+EC495,A,"Monday, April 21",Noon,LH2066
+EC470,A,"Thursday, April 10",8:30 a.m.,AC
+EC455,"A, A","Wednesday, April 23",8:30 a.m.,AC
+EC450,A,"Wednesday, April 16",8:30 a.m.,AC
+EC439,A,"Thursday, April 17",7 p.m.,LH2066
+EC410J,A,"Tuesday, April 22",8:30 a.m.,LH2066
+EC410H,A,"Saturday, April 12",8:30 a.m.,TA
+EC395,"C, D","Monday, April 14",8:30 a.m.,LH3094
+EC390,"C, D","Monday, April 21",8:30 a.m.,Remote
+EC370,"C, D","Friday, April 25",8:30 a.m.,AC
+EC348,B,"Tuesday, April 22",3:30 p.m.,AC
+EC345,B,"Wednesday, April 23",7 p.m.,AC
+EC335,B,"Saturday, April 12",3:30 p.m.,AC
+EC328,B,"Thursday, April 10",7 p.m.,AC
+EC316,B,"Friday, April 11",7 p.m.,AC
+EC310I,B,"Wednesday, April 16",Noon,TA
+EC310E,B,"Friday, April 11",Noon,AC
+EC307,B,"Wednesday, April 16",7 p.m.,SB106
+EC306,A,"Wednesday, April 09",8:30 a.m.,AC
+EC303,A,"Monday, April 21",Noon,TA
+EC295,"B, C, D","Monday, April 14",Noon,AC
+EC290,"C, D","Monday, April 21",8:30 a.m.,TA
+EC285,C,"Wednesday, April 16",8:30 a.m.,AC
+EC270,"C, D","Thursday, April 10",8:30 a.m.,AC
+EC260,A (A - G),"Monday, April 14",8:30 a.m.,LH1009
+EC260,A (H - N),"Monday, April 14",8:30 a.m.,LH1010
+EC260,A (O - Z),"Monday, April 14",8:30 a.m.,LH1011
+EC247,A,"Wednesday, April 09",Noon,SB106
+EC239,B,"Friday, April 11",3:30 p.m.,AC
+EC238,B,"Monday, April 21",7 p.m.,AC
+EC233,B,"Friday, April 25",7 p.m.,AC
+EC223,A,"Thursday, April 24",7 p.m.,AC
+EC207,B,"Tuesday, April 15",Noon,AC
+EC140,"A,B,C (Student last names A - Hard)","Wednesday, April 16",7 p.m.,AC
+EC140,"A,B,C (Student last names Hare - Kni)","Wednesday, April 16",7 p.m.,TA
+EC140,"A,B,C (Student last names Kno - Lee)","Wednesday, April 16",7 p.m.,LH1009
+EC140,"A,B,C (Student last names Lef - Mad)","Wednesday, April 16",7 p.m.,LH1010
+EC140,"A,B,C (Student last names Mag - Mcg)","Wednesday, April 16",7 p.m.,LH1011
+EC140,"A,B,C (Student last names Mci - Oha)","Wednesday, April 16",7 p.m.,LH3094
+EC140,"A,B,C (Student last names Ola - Perk)","Wednesday, April 16",7 p.m.,BA101
+EC140,"A,B,C (Student last names Perr - Rei)","Wednesday, April 16",7 p.m.,BA102
+EC140,"A,B,C (Student last names Rek - Sim)","Wednesday, April 16",7 p.m.,BA201
+EC140,"A,B,C (Student last names Sin - Tru)","Wednesday, April 16",7 p.m.,N1001
+EC140,"A,B,C (Student last names Tse - Wei)","Wednesday, April 16",7 p.m.,N1002
+EC140,"A,B,C (Student last names Wen - Z)","Wednesday, April 16",7 p.m.,P110A/110B
+DH201,A,"Thursday, April 10",3:30 p.m.,SB106
+DATA200,A,"Monday, April 21",7 p.m.,AC
+DATA100,C,"Thursday, April 10",Noon,AC
+CS251,B,"Wednesday, April 09",8:30 a.m.,TA
+CS205,A,"Monday, April 21",7 p.m.,AC
+CS203,A,"Thursday, April 17",8:30 a.m.,AC
+CS101,B,"Monday, April 21",8:30 a.m.,"Remote - Available 9am-9pm, 2 hour window"
+CS100,B,"Monday, April 14",Noon,AC
+CP476,A,"Monday, April 21",8:30 a.m.,LH3094
+CP472,A,"Wednesday, April 09",8:30 a.m.,LH3094
+CP468,"B, C","Tuesday, April 15",Noon,Remote
+CP465,B,"Monday, April 14",3:30 p.m.,LH3094
+CP423,A,"Wednesday, April 23",3:30 p.m.,LH2064
+CP414,"B, C","Wednesday, April 16",8:30 a.m.,TA
+CP412,A,"Monday, April 14",Noon,LH2064
+CP400S,A,"Monday, April 21",3:30 p.m.,SB103
+CP386,C,"Thursday, April 24",8:30 a.m.,LH3094
+CP372,"C, D","Wednesday, April 23",8:30 a.m.,AC
+CP367,A,"Friday, April 25",8:30 a.m.,LH3094
+CP363,"C, D (A - Gun)","Monday, April 21",8:30 a.m.,LH1009
+CP363,"C, D (Gup - Mor)","Monday, April 21",8:30 a.m.,LH1010
+CP363,"C, D (Mur - Ste)","Monday, April 21",8:30 a.m.,LH1011
+CP363,"C, D (Str - Z)","Monday, April 21",8:30 a.m.,LH2066
+CP322,"C, D","Tuesday, April 22",8:30 a.m.,TA
+CP321,"A, B","Saturday, April 12",3:30 p.m.,TA
+CP317,D,"Thursday, April 17",Noon,LH3094
+CP315,"A, A","Wednesday, April 09",3:30 p.m.,AC
+CP312,C,"Thursday, April 10",Noon,AC
+CP264,"B, C","Wednesday, April 16",Noon,AC
+CP221,A,"Friday, April 25",3:30 p.m.,AC
+CP220,C,"Friday, April 25",Noon,AC
+CP216,B (Student last names A - Bos),"Friday, April 11",Noon,LH1009
+CP216,B (Student last names Bot - Fen),"Friday, April 11",Noon,LH1010
+CP216,B (Student last names Fer - Jac),"Friday, April 11",Noon,LH1011
+CP216,B (Student last names Jag - Kuk),"Friday, April 11",Noon,LH2062
+CP216,B (Student last names Kun - Mai),"Friday, April 11",Noon,LH2064
+CP216,B (Student last names Mal - Mon),"Friday, April 11",Noon,LH2066
+CP216,B (Student last names Moo - Sid),"Friday, April 11",Noon,LH3094
+CP216,B (Student last names Sin - Vel),"Friday, April 11",Noon,SB106
+CP216,B (Student last names Vig - Z),"Friday, April 11",Noon,SB107
+CP214,C,"Wednesday, April 23",Noon,AC
+CP213,C (Student last names A - I),"Wednesday, April 09",Noon,LH1009
+CP213,C (Student last names J - Z),"Wednesday, April 09",Noon,LH3094
+CP212,B,"Tuesday, April 15",8:30 a.m.,LH3094
+CP164,B,"Wednesday, April 16",Noon,LH1009
+CP164,C (Student last names A - Che),"Wednesday, April 16",Noon,LH1010
+CP164,C (Student last names Chi - Hus),"Wednesday, April 16",Noon,LH1011
+CP164,C (Student last names Hut - Ist),"Wednesday, April 16",Noon,LH2062
+CP164,C (Student last names Ja - Lau),"Wednesday, April 16",Noon,LH2064
+CP164,C (Student last names Lee - Ojo),"Wednesday, April 16",Noon,LH2066
+CP164,C (Student last names Okw - Z),"Wednesday, April 16",Noon,LH3094
+CP104,C,"Thursday, April 17",8:30 a.m.,AC
+CP103,B,"Wednesday, April 23",8:30 a.m.,AC
+CLIM210,A,"Thursday, April 24",7 p.m.,SB106
+CH459,A,"Tuesday, April 22",3:30 p.m.,AC
+CH456,A,"Monday, April 14",7 p.m.,AC
+CH404,A,"Wednesday, April 23",3:30 p.m.,N1044
+CH356,A,"Monday, April 14",8:30 a.m.,SB103
+CH350,B,"Wednesday, April 23",8:30 a.m.,AC
+CH327,A,"Thursday, April 24",Noon,N1044
+CH313,A,"Thursday, April 10",3:30 p.m.,N1044
+CH262,A,"Monday, April 21",Noon,TA
+CH250,B,"Thursday, April 24",3:30 p.m.,AC
+CH234,A,"Wednesday, April 09",8:30 a.m.,AC
+CH226,A,"Thursday, April 24",7 p.m.,AC
+CH212,A,"Thursday, April 17",7 p.m.,N1044
+CH207,A,"Monday, April 14",8:30 a.m.,TA
+CH205,A,"Monday, April 14",8:30 a.m.,TA
+CH203,A,"Monday, April 14",8:30 a.m.,TA
+CH202,B,"Monday, April 14",8:30 a.m.,N1044
+CH131,A,"Thursday, April 17",Noon,AC
+CH111,"A, B","Thursday, April 17",Noon,AC
+CH110,C,"Tuesday, April 22",3:30 p.m.,AC
+CC312,"A, A, A","Tuesday, April 22",8:30 a.m.,AC
+CC100,C,"Tuesday, April 22",7 p.m.,AC
+BU493X,A,"Thursday, April 17",Noon,LH2066
+BU487,"D, E","Wednesday, April 23",7 p.m.,AC
+BU486,"C, D","Saturday, April 12",Noon,LH3094
+BU481,"N, P, Q, R, S","Wednesday, April 16",3:30 p.m.,AC
+BU477,"D, E","Wednesday, April 09",3:30 p.m.,LH1009
+BU473,"D, E","Monday, April 14",7 p.m.,AC
+BU467,D (Bullock),"Thursday, April 10",Noon,LH1009
+BU467,E (Abraham),"Thursday, April 10",Noon,LH1010
+BU466,"C, D","Thursday, April 24",3:30 p.m.,AC
+BU464,A,"Tuesday, April 15",Noon,AC
+BU463,"A, B","Friday, April 11",8:30 a.m.,TA
+BU453,A,"Monday, April 14",Noon,LH2066
+BU451,B,"Tuesday, April 15",7 p.m.,AC
+BU449,A,"Monday, April 14",8:30 a.m.,LH2066
+BU448,A,"Tuesday, April 15",7 p.m.,AC
+BU443,B,"Wednesday, April 09",8:30 a.m.,LH2066
+BU433,"A, B","Tuesday, April 15",3:30 p.m.,AC
+BU423,"C, D","Tuesday, April 22",3:30 p.m.,AC
+BU422,B,"Thursday, April 10",7 p.m.,Remote
+BU418,A,"Thursday, April 10",7 p.m.,AC
+BU415,"F, G, H, J, K","Friday, April 25",8:30 a.m.,LH1009
+BU414,A,"Friday, April 11",7 p.m.,AC
+BU413,B,"Friday, April 25",7 p.m.,LH1009
+BU405,B,"Monday, April 14",3:30 p.m.,LH2064
+BU403,"B, C","Thursday, April 10",Noon,LH3094
+BU398,"A1, A2, A3, A4, A5, A6, A7, A8, A9","Tuesday, April 15",3:30 p.m.,AC
+BU397,"B, C, D","Friday, April 11",7 p.m.,AC
+BU393,"C, D, S1","Thursday, April 17",8:30 a.m.,LH3094
+BU387,"J, K","Friday, April 11",Noon,AC
+BU375,"A1, A2, A3, A4, A5, A6, A7, A8, A9","Monday, April 21",Noon,AC
+BU362,"A1, A2, A3, A4, A5, A6, A7, A8, A9","Wednesday, April 09",3:30 p.m.,AC
+BU357,"D, E","Thursday, April 24",8:30 a.m.,TA
+BU354,"C, D","Friday, April 25",Noon,AC
+BU353,"C, D (Lennox)","Wednesday, April 23",8:30 a.m.,LH3094
+BU353,E (Tomlinson),"Wednesday, April 23",8:30 a.m.,LH1009
+BU352,"C, D","Tuesday, April 15",8:30 a.m.,AC
+BU301,C,"Thursday, April 17",7 p.m.,LH1010
+BU288,"A7, B1, B2, B3, B4, B5, B6","Thursday, April 24",8:30 a.m.,AC
+BU283,"A7,B1,B2,B3,B4,B5 (A - Cer)","Thursday, April 17",3:30 p.m.,LH1009
+BU283,"A7,B1,B2,B3,B4,B5 (Cha - Han)","Thursday, April 17",3:30 p.m.,LH1010
+BU283,"A7,B1,B2,B3,B4,B5 (Har - Mat)","Thursday, April 17",3:30 p.m.,LH1011
+BU283,"A7,B1,B2,B3,B4,B5 (Mcc - Rah)","Thursday, April 17",3:30 p.m.,LH2062
+BU283,"A7,B1,B2,B3,B4,B5 (Rai - Sol)","Thursday, April 17",3:30 p.m.,LH2064
+BU283,"A7,B1,B2,B3,B4,B5 (Son - Z)","Thursday, April 17",3:30 p.m.,LH2066
+BU283,"S1, B6","Thursday, April 17",3:30 p.m.,LH3094
+BU275,"B1, B2, B3, B4, B5, B6, F, G, H, J, K, L","Monday, April 21",8:30 a.m.,AC
+BU255,S1,"Friday, April 11",7 p.m.,AC
+BU252,"F, G, H, J, K, L, S1, S2","Tuesday, April 15",7 p.m.,AC
+BU247,"A8, F (Keirstead)","Saturday, April 12",3:30 p.m.,LH3094
+BU247,A9 (Wick),"Saturday, April 12",3:30 p.m.,LH2062
+BU247,G (Abraham),"Saturday, April 12",3:30 p.m.,LH1009
+BU247,H (Guo) Student last names A - N,"Saturday, April 12",3:30 p.m.,LH1010
+BU247,H (Guo) Student last names P - Z,"Saturday, April 12",3:30 p.m.,LH1011
+BU247,J (Bullock),"Saturday, April 12",3:30 p.m.,SB106
+BU247,K (Wick) Student last names A - L,"Saturday, April 12",3:30 p.m.,LH2064
+BU247,K (Wick) Student last names M - Z,"Saturday, April 12",3:30 p.m.,LH2066
+BU247,L (Guo),"Saturday, April 12",3:30 p.m.,LH1011
+BU247,S1 (Abraham) Student last names A - K,"Saturday, April 12",3:30 p.m.,LH1009
+BU247,S1 (Abraham) Student last names L - Z,"Saturday, April 12",3:30 p.m.,LH1010
+BU231,"F, G, H, J, K, L, S1","Wednesday, April 09",8:30 a.m.,AC
+BU225,B,"Wednesday, April 23",7 p.m.,AC
+BU223,B,"Wednesday, April 09",7 p.m.,LH1009
+BU205,B,"Friday, April 11",7 p.m.,AC
+BU127,"G, H, J, S2 (Mamo, Jia)","Wednesday, April 23",3:30 p.m.,AC
+BU127,K (Koritko),"Wednesday, April 23",3:30 p.m.,LH3094
+BU127,"OC2, S1 (Moore, Koritko)","Wednesday, April 23",3:30 p.m.,TA
+BU121,"Labs 1-16, 18-25","Thursday, April 10",3:30 p.m.,AC
+BU121,"Labs 17, 36","Thursday, April 10",3:30 p.m.,LH2064
+BU121,Labs 26-33,"Thursday, April 10",3:30 p.m.,TA
+BU121,"Labs 34, 53","Thursday, April 10",3:30 p.m.,LH2066
+BU121,"Labs 35, 38, 51","Thursday, April 10",3:30 p.m.,LH1010
+BU121,"Labs 39, 54, 55","Thursday, April 10",3:30 p.m.,SB203
+BU121,"Labs 40, 41, 52","Thursday, April 10",3:30 p.m.,LH1011
+BU121,"Labs 42, 43 45, 47, 48","Thursday, April 10",3:30 p.m.,LH3094
+BU121,Labs 44,"Thursday, April 10",3:30 p.m.,SB204
+BU121,"Labs 46, 50","Thursday, April 10",3:30 p.m.,SB103
+BU121,"UW campus students, all labs","Thursday, April 10",3:30 p.m.,"UW PAC 7, 8 (exam start time 4:00 pm)"
+BU111,S1,"Friday, April 11",3:30 p.m.,TA
+BI468,A,"Wednesday, April 23",7 p.m.,LH1009
+BI400,A,"Thursday, April 10",3:30 p.m.,SB107
+BI374,A,"Wednesday, April 16",7 p.m.,N1044
+BI358,A,"Monday, April 21",8:30 a.m.,N1001
+BI336,A,"Tuesday, April 15",Noon,AC
+BI309,A,"Saturday, April 12",3:30 p.m.,AC
+BI306,A,"Friday, April 11",Noon,AC
+BI300,A,"Friday, April 25",8:30 a.m.,AC
+BI256,A (Student last names - A - E),"Monday, April 21",7 p.m.,LH1009
+BI256,A (Student last names - F - Neu),"Monday, April 21",7 p.m.,LH1010
+BI256,A (Student last names - Ngu - Z),"Monday, April 21",7 p.m.,LH1011
+BI236,A (A - Cap),"Wednesday, April 16",8:30 a.m.,LH1009
+BI236,A (Car - Ger),"Wednesday, April 16",8:30 a.m.,LH1010
+BI236,A (Ghe - Kor),"Wednesday, April 16",8:30 a.m.,LH1011
+BI236,A (Lad - Mel),"Wednesday, April 16",8:30 a.m.,LH2062
+BI236,A (Mid - Obs),"Wednesday, April 16",8:30 a.m.,LH2064
+BI236,A (Oko - Z),"Wednesday, April 16",8:30 a.m.,LH3094
+BI111,A,"Wednesday, April 09",Noon,AC
+BI111,B (Student last names A - Kas),"Wednesday, April 09",Noon,AC
+BI111,B (Student last names Kat - Sut),"Wednesday, April 09",Noon,TA
+BI111,B (Student last names Tac-Z),"Wednesday, April 09",Noon,N1044
+AS101,B (Student last names A - E),"Thursday, April 24",3:30 p.m.,BA101
+AS101,B (Student last names F - Lee),"Thursday, April 24",3:30 p.m.,BA102
+AS101,B (Student last names Lep - Z),"Thursday, April 24",3:30 p.m.,BA201
+AR226,"A, A","Thursday, April 17",Noon,AC
+AR221,A,"Monday, April 14",8:30 a.m.,PET P110A/110B
+AR203,A,"Thursday, April 24",3:30 p.m.,AC
+AR102,A,"Thursday, April 17",8:30 a.m.,AC
+AN314,A,"Friday, April 25",7 p.m.,AC
+AF224,"A, B","Thursday, April 24",8:30 a.m.,ART 1E1
+AB102,A,"Wednesday, April 23",7 p.m.,AC
