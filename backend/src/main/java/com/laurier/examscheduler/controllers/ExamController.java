@@ -8,7 +8,6 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/api/exams")
-//@CrossOrigin(origins = "*")  // For development - restrict this in production
 public class ExamController {
     
     private final ExamService examService;
