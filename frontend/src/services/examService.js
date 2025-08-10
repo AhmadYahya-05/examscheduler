@@ -1,7 +1,8 @@
 // src/services/examService.js
 import axios from 'axios';
 
-const API_BASE_URL = 'http://localhost:8080/api/exams'; // Adjust the base URL as needed
+// Use environment variable for API URL, fallback to localhost for development
+const API_BASE_URL = process.env.REACT_APP_API_URL || 'http://localhost:8080/api/exams';
 
 const examService = {
   // Get all exams

@@ -18,12 +18,26 @@ public class ExamController {
     
     @GetMapping
     public List<Exam> getAllExams() {
-        return examService.getAllExams();
+        try {
+            List<Exam> exams = examService.getAllExams();
+            System.out.println("Retrieved " + exams.size() + " exams");
+            return exams;
+        } catch (Exception e) {
+            System.err.println("Error retrieving all exams: " + e.getMessage());
+            throw e;
+        }
     }
     
     @GetMapping("/search")
     public List<Exam> searchExams(@RequestParam String courseCode) {
-        return examService.getExamsByCourseCode(courseCode);
+        try {
+            List<Exam> exams = examService.getExamsByCourseCode(courseCode);
+            System.out.println("Search for '" + courseCode + "' returned " + exams.size() + " results");
+            return exams;
+        } catch (Exception e) {
+            System.err.println("Error searching exams for course code '" + courseCode + "': " + e.getMessage());
+            throw e;
+        }
     }
 }
 // Removed HealthCheckController to place it in its own file

@@ -10,7 +10,7 @@ import org.springframework.web.filter.CorsFilter;
 @Configuration
 public class WebConfig {
 
-    @Value("${ALLOWED_ORIGINS:http://localhost:3000,https://examscheduler.vercel.app}")
+    @Value("${ALLOWED_ORIGINS:http://localhost:3000,https://examscheduler.vercel.app,https://examscheduler-frontend.vercel.app}")
     private String allowedOrigins;
 
     @Bean
