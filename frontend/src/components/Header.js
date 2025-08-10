@@ -40,7 +40,7 @@ function Header() {
               display: { xs: 'none', sm: 'block' }
             }}
           >
-            Winter 2025
+            Spring 2025
           </Typography>
         </Toolbar>
       </Container>
