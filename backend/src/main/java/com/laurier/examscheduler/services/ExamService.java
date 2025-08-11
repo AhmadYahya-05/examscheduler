@@ -29,10 +29,10 @@ public class ExamService implements CommandLineRunner {
     
     @Override
     public void run(String... args) throws Exception {
-        // Only initialize if database is empty
-        if (examRepository.count() == 0) {
-            initializeExamData();
-        }
+        // Force reload for summer exams update
+        examRepository.deleteAll();
+        initializeExamData();
+        System.out.println("Summer exam data loaded successfully!");
     }
     
     private void initializeExamData() {
