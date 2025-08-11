@@ -17,7 +17,24 @@ const calendarService = {
         // Parse exam date and time
         const [dayOfWeek, month, day] = exam.date.split(/,\s*|\s+/);
         const year = 2025; // Assuming exams are in 2025
-        const monthNum = month === 'April' ? 4 : 5; // 1-indexed months for date string
+        
+        // Dynamic month parsing to support any semester (1-indexed for date string)
+        const monthMap = {
+          'January': 1, 'Jan.': 1, 'Jan': 1,
+          'February': 2, 'Feb.': 2, 'Feb': 2,
+          'March': 3, 'Mar.': 3, 'Mar': 3,
+          'April': 4, 'Apr.': 4, 'Apr': 4,
+          'May': 5,
+          'June': 6, 'Jun.': 6, 'Jun': 6,
+          'July': 7, 'Jul.': 7, 'Jul': 7,
+          'August': 8, 'Aug.': 8, 'Aug': 8,
+          'September': 9, 'Sep.': 9, 'Sep': 9,
+          'October': 10, 'Oct.': 10, 'Oct': 10,
+          'November': 11, 'Nov.': 11, 'Nov': 11,
+          'December': 12, 'Dec.': 12, 'Dec': 12
+        };
+        
+        const monthNum = monthMap[month] ?? 4; // Default to April if month not found
         
         // Parse time
         const [startTime, endTime] = exam.time.split(' - ');

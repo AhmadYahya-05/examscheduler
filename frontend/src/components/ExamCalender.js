@@ -16,12 +16,28 @@ function ExamCalendar({ exams }) {
   const theme = useTheme();
   const calendarRef = React.useRef(null);
   
-  // Function to parse date string (e.g., "Saturday, April 12")
+  // Function to parse date string (e.g., "Saturday, April 12" or "Friday, Aug. 08")
   const parseExamDate = (dateStr) => {
     const [dayOfWeek, month, day] = dateStr.split(/,\s*|\s+/);
-    // Assuming all exams are in April or May 2025
     const year = 2025;
-    const monthNum = month === 'April' ? 3 : 4; // 0-indexed months in JS Date
+    
+    // Dynamic month parsing to support any semester
+    const monthMap = {
+      'January': 0, 'Jan.': 0, 'Jan': 0,
+      'February': 1, 'Feb.': 1, 'Feb': 1,
+      'March': 2, 'Mar.': 2, 'Mar': 2,
+      'April': 3, 'Apr.': 3, 'Apr': 3,
+      'May': 4,
+      'June': 5, 'Jun.': 5, 'Jun': 5,
+      'July': 6, 'Jul.': 6, 'Jul': 6,
+      'August': 7, 'Aug.': 7, 'Aug': 7,
+      'September': 8, 'Sep.': 8, 'Sep': 8,
+      'October': 9, 'Oct.': 9, 'Oct': 9,
+      'November': 10, 'Nov.': 10, 'Nov': 10,
+      'December': 11, 'Dec.': 11, 'Dec': 11
+    };
+    
+    const monthNum = monthMap[month] ?? 3; // Default to April if month not found
     return new Date(year, monthNum, parseInt(day));
   };
   
