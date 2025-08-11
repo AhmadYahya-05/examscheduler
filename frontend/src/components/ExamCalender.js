@@ -96,19 +96,14 @@ function ExamCalendar({ exams }) {
   
   // Find exams for a specific date
   const getExamsForDate = (date) => {
-    const dateStr = date.toLocaleDateString('en-US', { 
-      weekday: 'long', 
-      month: 'long', 
-      day: 'numeric' 
-    });
-    
-    // Handle date format differences
+    // Compare using the actual Date objects instead of string comparison
     return exams.filter(exam => {
-      const examDateParts = exam.date.split(',')[0].trim() + ', ' + 
-                          exam.date.split(',')[1].trim();
-      const calDateParts = dateStr.split(',')[0].trim() + ', ' + 
-                         dateStr.split(',')[1].trim();
-      return examDateParts === calDateParts;
+      const examDate = parseExamDate(exam.date);
+      
+      // Compare year, month, and day
+      return examDate.getFullYear() === date.getFullYear() &&
+             examDate.getMonth() === date.getMonth() &&
+             examDate.getDate() === date.getDate();
     });
   };
   

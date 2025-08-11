@@ -91,6 +91,8 @@ function ExamList({ exams, onAddExam, onRemoveExam, isSearchResult, loading }) {
             sx={{ py: 2 }}
           >
             <ListItemText
+              primaryTypographyProps={{ component: 'div' }}
+              secondaryTypographyProps={{ component: 'div' }}
               primary={
                 <Box sx={{ display: 'flex', alignItems: 'center', mb: 1 }}>
                   <Typography 
